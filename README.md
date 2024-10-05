@@ -1,2 +1,1 @@
-# 2d-try
- 2d game experiment
+# 2d-controller
